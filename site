@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Laduka</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #6200ea;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+        }
+        .container {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .info {
+            margin-top: 20px;
+        }
+        .info p {
+            font-size: 1.2rem;
+            line-height: 1.6;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #6200ea;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>About Laduka</h1>
+    </header>
+
+    <div class="container">
+        <div class="info">
+            <h2>Who is Laduka?</h2>
+            <p>Laduka is a remarkable individual known for many qualities. Based in the beautiful region of Georgia, Laduka represents the spirit of resilience and creativity that defines the area.</p>
+            
+            <h2>Contact Information</h2>
+            <p>If you'd like to get in touch with Laduka, you can call at:</p>
+            <p><strong>Connection Number:</strong> 123412345</p>
+
+            <h2>Region</h2>
+            <p><strong>Georgia</strong>: A land of rich culture, stunning landscapes, and warm hospitality. Georgia is where Laduka calls home.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 About Laduka. All rights reserved.</p>
+    </footer>
+</body>
+</html>
